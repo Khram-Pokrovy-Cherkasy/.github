@@ -28,5 +28,5 @@ We bridge rich spiritual heritage with modern technology. Our flagship project, 
 
 ---
 ## 🔗 Resources
-* [Official Website (Preview)](https://khram-pokrovy-cherkasy.github.io/khram/)
+* [Official Website (Preview)](https://hrampokrova.pp.ua/)
 * **Lead Architect:** [@SerhiiKa](https://github.com/SerhiiKa)
